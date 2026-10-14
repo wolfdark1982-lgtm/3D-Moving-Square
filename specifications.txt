@@ -1,0 +1,4 @@
+Resolution: 1080p
+Frames Per Second: 60
+Type: 3D Game
+Made With: Godot Engine
